@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "f77897f3dbed415b85e1884cf7fabd44"
-CLIENT_SECRET = "c6ed803a923541ff89886a3ff6b4ddc6"
+CLIENT_ID = "Your Client Id"
+CLIENT_SECRET = "Your Client Secret key"
 SPOTIPY_REDIRECT_URI = "http://example.com/callback/"
 SCOPE = "playlist-modify-private"
 
